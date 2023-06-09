@@ -1,0 +1,42 @@
+.primary_navbar .Big-container{
+    background-color: rgb(9, 9, 66);
+
+}
+.container h2{
+    color: white;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.container .primary-nav{
+    color: white;
+    margin-top: 29px;
+    margin-right: 100px;
+    
+}
+.display{
+    display: flex;
+    gap: 20px;
+}
+.menu{
+    display: none;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.medium_container{
+    width: 1450px;
+    margin: auto;
+    border: 1px solid white;
+    
+}
+input[type="btn"]{
+    background: linear-gradient(-90deg, rgb(84, 5, 84), rgb(248, 89, 89));
+    height: 40px;
+    width: 180px;
+    font-size: 20px;
+    margin-top: -10px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+}

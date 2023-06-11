@@ -1,8 +1,9 @@
 .primary_navbar .Big-container{
     background-color: rgb(9, 9, 66);
+    height: 680px;
 
 }
-.container h2{
+.container h3{
     color: white;
     margin-left: 70px;
     margin-top: 20px;
@@ -27,11 +28,11 @@
 .medium_container{
     width: 1450px;
     margin: auto;
-    border: 1px solid white;
+
     
 }
 input[type="btn"]{
-    background: linear-gradient(-90deg, rgb(84, 5, 84), rgb(248, 89, 89));
+    background: linear-gradient(-90deg, rgb(166, 20, 166), rgb(248, 89, 89));
     height: 40px;
     width: 180px;
     font-size: 20px;
@@ -39,4 +40,41 @@ input[type="btn"]{
     text-align: center;
     border: none;
     border-radius: 10px;
+}
+.hire{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.best{
+    margin-left: 65px;
+}
+h2{
+    font-size: 40px;
+    color: white;
+}
+span{
+    color: brown;
+}
+.pro{
+    margin-top: 20px;
+    color: white;
+    font-size: 18px;
+    line-height:2;
+}
+input[type="button"]{
+    margin-top: 50px;
+    background: linear-gradient(-90deg, rgb(166, 20, 166), rgb(248, 89, 89));
+    height: 40px;
+    width: 180px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.img{
+    margin-right: 200px;
+    background: linear-gradient(360deg, rgb(221, 124, 221), rgb(230, 114, 114));
+    border: 10px solid violet;
+    border-radius: 12px;
 }

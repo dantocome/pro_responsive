@@ -75,6 +75,8 @@ input[type="button"]{
 .img{
     margin-right: 200px;
     background: linear-gradient(360deg, rgb(221, 124, 221), rgb(230, 114, 114));
-    border: 10px solid violet;
     border-radius: 12px;
+    width: 330px;
+    height: 370px;
+    
 }

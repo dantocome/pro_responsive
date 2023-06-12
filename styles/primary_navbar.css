@@ -1,6 +1,6 @@
 .primary_navbar .Big-container{
     background-color: rgb(9, 9, 66);
-    height: 680px;
+    height: 650px;
 
 }
 .container h3{
@@ -64,10 +64,10 @@ span{
 }
 input[type="button"]{
     margin-top: 50px;
-    background: linear-gradient(-90deg, rgb(166, 20, 166), rgb(248, 89, 89));
-    height: 40px;
-    width: 180px;
-    font-size: 20px;
+    background: linear-gradient(-90deg, rgb(197, 63, 197), rgb(248, 89, 89));
+    height: 50px;
+    width: 190px;
+    font-size: 18px;
     color: white;
     border: none;
     border-radius: 10px;
